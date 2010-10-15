@@ -6,8 +6,6 @@ git@github.com:andrewdyates/hooked_property.git
 
 Copyright © 2010 Andrew D. Yates
 All Rights Reserved.
-andrew.yates@hhmds.com
-
 ===
 
 HookedProperty adds model instance logic to properties. This is useful

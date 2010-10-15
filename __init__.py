@@ -5,16 +5,13 @@
 """Hooked Property class for Google App Engine Python Datastore.
 
 I intend Hooked Property to be used in db.polymodel.PolyModel model
-hierarchies. For "Table of Properties" style of properties, see App
-Engine Tycoon (aetycoon) by Αλκης Ευλογημένος and Nick Johnson: it has
-all the properties you'll ever need.
+hierarchies. For a "Table of Properties" style of properties, see "App
+Engine Tycoon (aetycoon)" by Αλκης Ευλογημένος and Nick Johnson.
 
 References:
   http://github.com/Arachnid/aetycoon
   http://blog.notdot.net/2009/9/Custom-Datastore-Properties-1-DerivedProperty
 """
-__authors__ = ['"Andrew D. Yates", <andrew.yates@hhmds.com>']
-
 
 from google.appengine.ext import db
 

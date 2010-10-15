@@ -16,8 +16,7 @@ abstractions with despite sharing a data type.
 
 I intend Hooked Property to be used in db.polymodel.PolyModel model
 hierarchies. For "Table of Properties" style of properties, see App
-Engine Tycoon (aetycoon) by Αλκης Ευλογημένος and Nick Johnson: it has
-all the properties you'll ever need.
+Engine Tycoon (aetycoon) by Αλκης Ευλογημένος and Nick Johnson.
 
 References:
   http://github.com/Arachnid/aetycoon
